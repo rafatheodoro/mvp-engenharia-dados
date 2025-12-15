@@ -1,2 +1,2 @@
-# mvp-engenharia-dados
-PUC-RIO - Pós em Ciência de Dados e Analytics - Projeto da disciplina de Engenharia de Dados
+# MVP-Engenharia-de-Dados
+PUC-RIO - Pós graduação em Ciência de Dados e Analytics - MVP da disciplina de Engenharia de Dados
