@@ -1,4 +1,4 @@
-# Análise dos cargos e remuneração dos servidores federais em 2025 a partir de dados do GOV.BR
+# Análise dos cargos e remuneração dos servidores federais: Outubro de 2025 (Dados GOV.BR)
 
 **Contexto:**
 *   **Instituição:** PUC-RIO - Pós-graduação em Ciência de Dados e Analytics
