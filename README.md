@@ -4,7 +4,7 @@
 ![PySpark](https://img.shields.io/badge/PySpark-FDEE21?logo=apachespark&logoColor=black)
 ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?logo=databricks&logoColor=white)
 ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-0052CC?logo=apache&logoColor=white)
-![PUC--Rio](https://img.shields.io/badge/PUC--Rio-003366?logo=academia&logoColor=white)
+
 
 ## Resumo do Projeto
 
